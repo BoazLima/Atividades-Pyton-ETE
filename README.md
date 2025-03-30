@@ -1,2 +1,2 @@
 # Atividades-Pyton-ETE
-Atividades das aulas de Programação
+Aqui serão depositadas as atividades de programação das aulas praticas na Escola Tecnica ETE Caxangá
